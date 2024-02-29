@@ -1,4 +1,4 @@
-﻿namespace ExampleCore.Dal.Base;
+namespace ExampleCore.Dal.Base;
 
 /// <summary>
 /// Базовая сущность для работы с сущностями в бд
